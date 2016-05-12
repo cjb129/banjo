@@ -202,7 +202,6 @@ Generator::gen(Integer_expr const& e)
 }
 
 
-
 #if 0
 
 // Return the value corresponding to a literal expression.

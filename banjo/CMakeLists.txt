@@ -129,6 +129,7 @@ endmacro()
 # add_unit_test(test_substitute  test/test_substitute.cpp)
 # add_unit_test(test_deduce      test/test_deduce.cpp)
 # add_unit_test(test_constraint  test/test_constraint.cpp)
+# add_unit_test(test_array       test/test_array.cpp)
 
 # Testing tools
 # add_test_program(test_parse   test/test_parse.cpp)
